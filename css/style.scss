@@ -1,0 +1,10 @@
+
+$pink-color: #d200a2;
+
+@import 'base';
+
+
+@media screen and (min-width: 700px) {
+
+    @import '_desktop';
+}
